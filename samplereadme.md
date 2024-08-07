@@ -13,9 +13,6 @@ https://github.com/user-attachments/assets/c6111206-e294-4dfb-a26c-59b2e2395204
 - [Prerequisites](#prerequisites)
 - [Salable Prerequisites](#salableprerequisites)
 - [Run the app locally](#run)
-- [Folder Structure](#folder)
-- [Contributing](#contributing)
-- [License](#license)
 
 # ⚙️ Included Features <a name="features"></a>
 
@@ -66,7 +63,7 @@ https://github.com/user-attachments/assets/c6111206-e294-4dfb-a26c-59b2e2395204
 
 ```yaml
 # See https://developers.miro.com/docs/app-manifest on how to use this
-appName: Monetization with Stripe
+appName: Monetization with Salable
 sdkVersion: SDK_V2
 sdkUri: http://localhost:3000
 redirectUris: http://localhost:3000/api/redirect/
@@ -86,6 +83,6 @@ https://github.com/miroapp/app-examples/assets/10428517/1e6862de-8617-46ef-b265-
 
 7. Go to your developer team, and open your boards.
 8. Click on the plus icon from the bottom section of your left sidebar. If you hover over it, it will say `More apps`.
-9. Search for your app `Monetization with Stripe` or whatever you chose to name it. Click on your app to use it, as shown in the video below.
+9. Search for your app `Monetization with Salable` or whatever you chose to name it. Click on your app to use it, as shown in the video below.
 
 https://github.com/horeaporutiu/app-examples-template/assets/10428517/b23d9c4c-e785-43f9-a72e-fa5d82c7b019
