@@ -4,7 +4,7 @@ This app shows how to use Salable to create Miro apps with advanced licensing an
 
 # 👨🏻‍💻 App Demo
 
-https://github.com/user-attachments/assets/c6111206-e294-4dfb-a26c-59b2e2395204 
+https://github.com/user-attachments/assets/c6111206-e294-4dfb-a26c-59b2e2395204
 
 # 📒 Table of Contents
 
@@ -49,7 +49,7 @@ https://github.com/user-attachments/assets/c6111206-e294-4dfb-a26c-59b2e2395204
 1. [Create an account](https://salable.app/signup) on Salable
 2. Create an [API Key in Salable](https://salable.app/settings/api-keys?modal=add-api-key)
 3. Set up a [payment integration](https://docs.salable.app/docs/using-the-dashboard/payment-integration/add-salable-payments) in Salable (such as Stripe)
-4. Configure a *product* and *plan* in Salable. See the complete step-by-step process in our guide [here](https://developers.miro.com/docs/monetization).
+4. Configure a _product_ and _plan_ in Salable. See the complete step-by-step process in our guide [here](https://developers.miro.com/docs/monetization).
 
 # 🏃🏽‍♂️ Run the app locally <a name="run"></a>
 
